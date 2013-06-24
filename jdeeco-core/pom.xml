@@ -135,5 +135,11 @@
 			<version>6.1.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>cz.cuni.mff.d3s.jdeeco</groupId>
+			<artifactId>cz.cuni.mff.d3s.jdeeco.core.model</artifactId>
+			<version>1.0.0</version>
+			<scope>runtime</scope>
+		</dependency>
 	</dependencies>
 </project>
